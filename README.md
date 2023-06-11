@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋🏻👨🏻‍💻, there </h2>
+<h2>Hi 👋🏻👨🏻‍💻, there </h2>
 <h4 >I'm currently studying for a Bachelors's Degree in Software Engineering at the University of Westminster.</h4>
 
 <h3 align="left">Connect with me:</h3>
